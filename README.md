@@ -1,2 +1,4 @@
 # sas_codelists
-SAS macros to facilitate creation and use of codelists
+
+This repository contains SAS macros that can facilitate the creation and use of
+codelists in registry-based epidemiologic research.
